@@ -1,3 +1,4 @@
-import { Header } from './modules'
+import { Header, TabsCollection } from './modules'
 
 new Header()
+new TabsCollection()
